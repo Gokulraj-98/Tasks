@@ -1,16 +1,16 @@
 {
-  "name": "Gokulraj.G",
+  "name": "Gokulraj G",
   "contact": {
     "email": "gokulraj8248@gmail.com",
     "phone": "8248133122",
-    "address": "Periyar street, Ulundurpet"
+    "address": "periyar street, ulundurpet"
   },
-  "summary": "Experienced software engineer with expertise in Full stack development".",
+  "summary": "Experienced software engineer with expertise in JavaScript, Python, and web development.",
   "education": [
     {
-      "degree": "Bachelor of Engineering in Electrical and Electronics",
-      "College": "Panimalar Institute of Technology",
-      "graduationYear": 2019
+      "degree": "EEE",
+      "school": "Panimalar",
+      "graduationYear": 2020
     },
   ],
   "experience": [
@@ -18,7 +18,7 @@
       "title": "Software Engineer",
       "company": "TCS",
       "startDate": "2022-08-22",
-      "endDate": "current",
+      "endDate": "2024-04-30",
       "responsibilities": [
         "Developed and maintained web applications.",
         "Collaborated with cross-functional teams."
@@ -28,7 +28,7 @@
       "title": "Intern",
       "company": "Corent Solutions",
       "startDate": "2019-11-01",
-      "endDate": "2020-03-21",
+      "endDate": "2020-03-27",
       "responsibilities": [
         "Assisted in software development projects.",
         "Learned and applied new technologies."
@@ -37,15 +37,14 @@
   ],
   "skills": [
     "JavaScript",
-    "JAVA",
+    "Java",
     "HTML",
     "CSS",
     "React",
     "Node.js",
     "Django",
-    "PLSQL"
     "Problem-solving"
   ],
-  "languages": ["English", "Tamil"],
-  "interests": ["Music"]
+  "languages": ["English", "Spanish"],
+  "interests": ["Hiking", "Photography", "Music"]
 }
